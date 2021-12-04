@@ -22,8 +22,12 @@
   <img align="center" alt="fausantosdev MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>  
   
+<h2>Alguns de meus projetos 😬</h2>
+  <div>
+  </div>  
+ 
+<h2>Entre em contato comigo 👇</h2>   
 <div>
-  <h2>Entre em contato comigo 👇</h2> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-santos-23bb87103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fausantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
