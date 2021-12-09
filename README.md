@@ -21,10 +21,6 @@
   <img align="center" alt="fausantosdev PostgresSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="fausantosdev MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>  
-  
-<h2>Alguns de meus projetos 😬</h2>
-  <div>
-  </div>  
  
 <h2>Entre em contato comigo 👇</h2>   
 <div>
