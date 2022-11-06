@@ -9,10 +9,6 @@
     Sou Desenvolvedor Full Stack e aqui eu compartilho um pouco do que sei fazer!  
   </p>
   
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
-  
 </div>
 
 <div align="center">
